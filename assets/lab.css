@@ -1025,7 +1025,7 @@ h1 {
   justify-content: space-between;
   align-items: center;
   gap: 30px;
-  margin-top: 46px;
+  margin-top: 0;
   margin-bottom: 22px;
 }
 .projects-header .eyebrow {
@@ -1863,7 +1863,7 @@ h1 {
   }
   .projects-header {
     display: block;
-    margin-top: 31px;
+    margin-top: 0;
   }
   .projects-header .text-link {
     margin-top: 14px;
@@ -2065,13 +2065,18 @@ h1 {
   }
 }
 
-/* Warm dry-white sections keep the existing green identity and dark imagery. */
+/* Alternate warm dry-white sections with the original dark green. */
+.dark-band {
+  background: var(--bg);
+  color: var(--text);
+  color-scheme: dark;
+}
 .light-band {
   --bg: #f1f0e6;
   --panel: #e6e8db;
   --text: #263d2d;
   --soft: #465d46;
-  --muted: #6b7865;
+  --muted: #606f5b;
   --mint: #416b4c;
   --line: #294b3024;
   background: var(--bg);
@@ -2085,6 +2090,9 @@ h1 {
 .light-band .publication-icon {
   background: #dde6d5;
 }
+.light-band .tech-caption {
+  color: #c2c9bd;
+}
 .people-grid {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
@@ -2093,9 +2101,11 @@ h1 {
   padding-bottom: 12px;
 }
 .person-initials {
+  margin-bottom: 24px;
+}
+.light-band .person-initials {
   background: #e1e7d7;
   border-color: #416b4c33;
-  margin-bottom: 24px;
 }
 .person h3 {
   font-size: 32px;
