@@ -1,0 +1,1549 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-06T21:55:37Z",
+  "models": [
+    {
+      "id": "R0zTic",
+      "t": "aereo",
+      "lat": 37.773672,
+      "lng": -8.697936,
+      "approx": false,
+      "img": "rosalgar.png",
+      "url": "R0zTic",
+      "title": {
+        "pt": "Antiga Mina do Rosalgar",
+        "en": "Former Rosalgar Mine"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Odemira",
+      "municipality": "Odemira",
+      "district": "Beja",
+      "locationDetail": "Foros de Pereira",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "jLCHmm",
+      "t": "aereo",
+      "lat": 38.697682,
+      "lng": -9.20526,
+      "approx": false,
+      "img": "jeronimos_igreja.png",
+      "url": "jLCHmm",
+      "title": {
+        "pt": "Mosteiro dos Jerónimos (Igreja)",
+        "en": "Jerónimos Monastery (Church)"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Lisboa",
+      "municipality": "Lisboa",
+      "district": "Lisboa",
+      "locationDetail": "São Francisco Xavier",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "XYc2l8",
+      "t": "aereo",
+      "lat": 38.697195,
+      "lng": -9.207131,
+      "approx": false,
+      "img": "jeronimos.png",
+      "url": "XYc2l8",
+      "title": {
+        "pt": "Mosteiro dos Jerónimos",
+        "en": "Jerónimos Monastery"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Lisboa",
+      "municipality": "Lisboa",
+      "district": "Lisboa",
+      "locationDetail": "São Francisco Xavier",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "vamtzR",
+      "t": "aereo",
+      "lat": 39.5482,
+      "lng": -8.9796,
+      "approx": false,
+      "img": "alcobaca_envolvente.png",
+      "url": "vamtzR",
+      "title": {
+        "pt": "Mosteiro de Alcobaça e Zona Envolvente",
+        "en": "Alcobaça Monastery and Surroundings"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Alcobaça",
+      "municipality": "Alcobaça",
+      "district": "Leiria",
+      "locationDetail": "Aliceira",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "D1xVtm",
+      "t": "aereo",
+      "lat": 39.5482,
+      "lng": -8.9796,
+      "approx": false,
+      "img": "alcobaca.png",
+      "url": "D1xVtm",
+      "title": {
+        "pt": "Mosteiro de Alcobaça",
+        "en": "Alcobaça Monastery"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Alcobaça",
+      "municipality": "Alcobaça",
+      "district": "Leiria",
+      "locationDetail": "Aliceira",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "V6DR7P",
+      "t": "aereo",
+      "lat": 37.9975,
+      "lng": -7.9493,
+      "approx": false,
+      "img": "pisoes.png",
+      "url": "V6DR7P",
+      "title": {
+        "pt": "Villa Romana de Pisões",
+        "en": "Roman Villa of Pisões"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Beja",
+      "municipality": "Beja",
+      "district": "Beja",
+      "locationDetail": "Beja (Santiago Maior e São João Baptista)",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "1_KJJO",
+      "t": "aereo",
+      "lat": 38.7718,
+      "lng": -7.7158,
+      "approx": false,
+      "img": "castelo_evoramonte.png",
+      "url": "1_KJJO",
+      "title": {
+        "pt": "Castelo de Évoramonte",
+        "en": "Évoramonte Castle"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Évoramonte",
+      "municipality": "Estremoz",
+      "district": "Évora",
+      "locationDetail": "Évora Monte",
+      "country": "Portugal",
+      "locationSource": "Nome do local no modelo + Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "CT3Q_L",
+      "t": "aereo",
+      "lat": 38.842,
+      "lng": -7.5921,
+      "approx": false,
+      "img": "castelo_estremoz.png",
+      "url": "CT3Q_L",
+      "title": {
+        "pt": "Castelo de Estremoz",
+        "en": "Estremoz Castle"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Estremoz",
+      "municipality": "Estremoz",
+      "district": "Évora",
+      "locationDetail": "Santo André",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "Mq47SP",
+      "t": "aereo",
+      "lat": 38.8426,
+      "lng": -7.5846,
+      "approx": false,
+      "img": "maltezas_estremoz.png",
+      "url": "Mq47SP",
+      "title": {
+        "pt": "Convento das Maltezas",
+        "en": "Maltezas Convent"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Estremoz",
+      "municipality": "Estremoz",
+      "district": "Évora",
+      "locationDetail": "Santo André",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "bq4S3c",
+      "t": "aereo",
+      "lat": 37.0953,
+      "lng": -7.9037,
+      "approx": false,
+      "img": "milreu.png",
+      "url": "bq4S3c",
+      "title": {
+        "pt": "Milreu – Modelo Geral",
+        "en": "Milreu – General Model"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Estoi",
+      "municipality": "Faro",
+      "district": "Faro",
+      "locationDetail": "Coiro da Burra",
+      "country": "Portugal",
+      "locationSource": "Património Cultural, I.P. — verificação institucional",
+      "locationConfirmed": true,
+      "status": "published"
+    },
+    {
+      "id": "rR0l2K",
+      "t": "aereo",
+      "lat": 37.0953,
+      "lng": -7.9037,
+      "approx": false,
+      "img": "templo_milreu.png",
+      "url": "rR0l2K",
+      "title": {
+        "pt": "Templo Romano",
+        "en": "Roman Temple"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Estoi",
+      "municipality": "Faro",
+      "district": "Faro",
+      "locationDetail": "Coiro da Burra",
+      "country": "Portugal",
+      "locationSource": "Património Cultural, I.P. — verificação institucional",
+      "locationConfirmed": true,
+      "status": "published"
+    },
+    {
+      "id": "VnCqEI",
+      "t": "aereo",
+      "lat": 37.0953,
+      "lng": -7.9037,
+      "approx": false,
+      "img": "termas_milreu.png",
+      "url": "VnCqEI",
+      "title": {
+        "pt": "Termas – Frigidarium",
+        "en": "Baths – Frigidarium"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Estoi",
+      "municipality": "Faro",
+      "district": "Faro",
+      "locationDetail": "Coiro da Burra",
+      "country": "Portugal",
+      "locationSource": "Património Cultural, I.P. — verificação institucional",
+      "locationConfirmed": true,
+      "status": "published"
+    },
+    {
+      "id": "Hyw4nY",
+      "t": "aereo",
+      "lat": 38.4862,
+      "lng": -8.8847,
+      "approx": false,
+      "img": "ruinas_troia.png",
+      "url": "Hyw4nY",
+      "title": {
+        "pt": "Ruínas Romanas de Tróia",
+        "en": "Roman Ruins of Tróia"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Tróia",
+      "municipality": "Grândola",
+      "district": "Setúbal",
+      "locationDetail": "Troia",
+      "country": "Portugal",
+      "locationSource": "Nome do local no modelo + Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "6GhAOs",
+      "t": "aereo",
+      "lat": 38.4868,
+      "lng": -8.886,
+      "approx": false,
+      "img": "aula_troia.png",
+      "url": "6GhAOs",
+      "title": {
+        "pt": "Aula/Basílica de Tróia",
+        "en": "Aula/Basilica of Tróia"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Tróia",
+      "municipality": "Grândola",
+      "district": "Setúbal",
+      "locationDetail": "Troia",
+      "country": "Portugal",
+      "locationSource": "Nome do local no modelo + Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "t2RBAM",
+      "t": "aereo",
+      "lat": 38.372,
+      "lng": -8.5135,
+      "approx": false,
+      "img": "alcacer.png",
+      "url": "t2RBAM",
+      "title": {
+        "pt": "Alcácer do Sal",
+        "en": "Alcácer do Sal"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Alcácer do Sal",
+      "municipality": "Alcácer do Sal",
+      "district": "Setúbal",
+      "locationDetail": "Santa Maria do Castelo",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "pniwbO",
+      "t": "aereo",
+      "lat": 38.372,
+      "lng": -8.5135,
+      "approx": false,
+      "img": "alcacer_castelo.png",
+      "url": "pniwbO",
+      "title": {
+        "pt": "Castelo de Alcácer do Sal",
+        "en": "Alcácer do Sal Castle"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Alcácer do Sal",
+      "municipality": "Alcácer do Sal",
+      "district": "Setúbal",
+      "locationDetail": "Santa Maria do Castelo",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "AIvKQT",
+      "t": "aereo",
+      "lat": 38.4162,
+      "lng": -8.5668,
+      "approx": false,
+      "img": "enchurrasqueira.png",
+      "url": "AIvKQT",
+      "title": {
+        "pt": "Zona Arqueológica da Enchurrasqueira",
+        "en": "Enchurrasqueira Archaeological Site"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Alcácer do Sal",
+      "municipality": "Alcácer do Sal",
+      "district": "Setúbal",
+      "locationDetail": "Montevil",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "yL4nus",
+      "t": "aereo",
+      "lat": 38.3553,
+      "lng": -8.483818,
+      "approx": false,
+      "img": "barrosinha.png",
+      "url": "yL4nus",
+      "title": {
+        "pt": "Zona Arqueológica da Barrosinha",
+        "en": "Barrosinha Archaeological Site"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Alcácer do Sal",
+      "municipality": "Alcácer do Sal",
+      "district": "Setúbal",
+      "locationDetail": "Barrosinha",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "6T0uEk",
+      "t": "aereo",
+      "lat": 38.39684,
+      "lng": -8.53943,
+      "approx": false,
+      "img": "bugio.png",
+      "url": "6T0uEk",
+      "title": {
+        "pt": "Zona Arqueológica do Bugio",
+        "en": "Bugio Archaeological Site"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Alcácer do Sal",
+      "municipality": "Alcácer do Sal",
+      "district": "Setúbal",
+      "locationDetail": "",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "LuIPE3",
+      "t": "aereo",
+      "lat": 38.3876,
+      "lng": -8.4514,
+      "approx": false,
+      "img": "porto_de_lama.png",
+      "url": "LuIPE3",
+      "title": {
+        "pt": "Zona Arqueológica do Porto de Lama",
+        "en": "Porto de Lama Archaeological Site"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Alcácer do Sal",
+      "municipality": "Alcácer do Sal",
+      "district": "Setúbal",
+      "locationDetail": "Santiago",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "aczrAu",
+      "t": "aereo",
+      "lat": 38.4131,
+      "lng": -8.7572,
+      "approx": false,
+      "img": "cais_palafitico_carrasqueira.png",
+      "url": "aczrAu",
+      "title": {
+        "pt": "Cais Palafítico da Carrasqueira",
+        "en": "Carrasqueira Stilt Pier"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Alcácer do Sal",
+      "municipality": "Alcácer do Sal",
+      "district": "Setúbal",
+      "locationDetail": "Carrasqueira",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "j_tSQC",
+      "t": "aereo",
+      "lat": 38.5478,
+      "lng": -8.14593,
+      "approx": false,
+      "img": "vale_arca.png",
+      "url": "j_tSQC",
+      "title": {
+        "pt": "Antiga Mina — Vale da Arca",
+        "en": "Former Mine — Vale da Arca"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Évora",
+      "municipality": "Évora",
+      "district": "Évora",
+      "locationDetail": "Foros da Carvalha",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "0sJMNt",
+      "t": "aereo",
+      "lat": 38.5478,
+      "lng": -8.14593,
+      "approx": false,
+      "img": "vale_arca_dem.png",
+      "url": "0sJMNt",
+      "title": {
+        "pt": "Vale da Arca — DEM",
+        "en": "Vale da Arca — DEM"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Évora",
+      "municipality": "Évora",
+      "district": "Évora",
+      "locationDetail": "Foros da Carvalha",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "famzUR",
+      "t": "aereo",
+      "lat": 38.5478,
+      "lng": -8.14593,
+      "approx": false,
+      "img": "vale_arca_dem_detalhe.png",
+      "url": "famzUR",
+      "title": {
+        "pt": "Vale da Arca — Detalhe",
+        "en": "Vale da Arca — Detail"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Évora",
+      "municipality": "Évora",
+      "district": "Évora",
+      "locationDetail": "Foros da Carvalha",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "rs8NJd",
+      "t": "aereo",
+      "lat": 38.5724,
+      "lng": -7.9072,
+      "approx": false,
+      "img": "modelo3d_modelo_elevação.png",
+      "url": "rs8NJd",
+      "title": {
+        "pt": "Modelo 3D + Vegetação com o Modelo Digital de Elevação",
+        "en": "3D Model + Vegetation with the Digital Elevation Model"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Évora",
+      "municipality": "Évora",
+      "district": "Évora",
+      "locationDetail": "Évora (São Mamede, Sé, São Pedro e Santo Antão)",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "IrYTBe",
+      "t": "aereo",
+      "lat": 38.5724,
+      "lng": -7.9072,
+      "approx": false,
+      "img": "modelo3d_modelo_terreno.png",
+      "url": "IrYTBe",
+      "title": {
+        "pt": "Modelo 3D + Vegetação com o Modelo Digital de Terreno",
+        "en": "3D Model + Vegetation with the Digital Terrain Model"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Évora",
+      "municipality": "Évora",
+      "district": "Évora",
+      "locationDetail": "Évora (São Mamede, Sé, São Pedro e Santo Antão)",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "_Siw8t",
+      "t": "aereo",
+      "lat": 38.5724,
+      "lng": -7.9072,
+      "approx": false,
+      "img": "vegetação_modelo_terreno.png",
+      "url": "_Siw8t",
+      "title": {
+        "pt": "Vegetação com o Modelo Digital de Terreno",
+        "en": "Vegetation with the Digital Terrain Model"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Évora",
+      "municipality": "Évora",
+      "district": "Évora",
+      "locationDetail": "Évora (São Mamede, Sé, São Pedro e Santo Antão)",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "H81lCA",
+      "t": "aereo",
+      "lat": 38.5724,
+      "lng": -7.9072,
+      "approx": false,
+      "img": "edificios_modelo_terreno.png",
+      "url": "H81lCA",
+      "title": {
+        "pt": "Edifícios com Modelo Digital de Terreno",
+        "en": "Buildings with the Digital Terrain Model"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Évora",
+      "municipality": "Évora",
+      "district": "Évora",
+      "locationDetail": "Évora (São Mamede, Sé, São Pedro e Santo Antão)",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "Bv3H1v",
+      "t": "aereo",
+      "lat": 38.5724,
+      "lng": -7.9072,
+      "approx": false,
+      "img": "evora_ruas_chao_terreno.png",
+      "url": "Bv3H1v",
+      "title": {
+        "pt": "Ruas e Chão com Modelo Digital de Terreno",
+        "en": "Streets and Ground with the Digital Terrain Model"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Évora",
+      "municipality": "Évora",
+      "district": "Évora",
+      "locationDetail": "Évora (São Mamede, Sé, São Pedro e Santo Antão)",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "SuBdRO",
+      "t": "aereo",
+      "lat": 38.5724,
+      "lng": -7.9072,
+      "approx": false,
+      "img": "carros_modelo_terreno.png",
+      "url": "SuBdRO",
+      "title": {
+        "pt": "Carros com Modelo Digital de Terreno",
+        "en": "Cars with the Digital Terrain Model"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Évora",
+      "municipality": "Évora",
+      "district": "Évora",
+      "locationDetail": "Évora (São Mamede, Sé, São Pedro e Santo Antão)",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "fPPJ3_",
+      "t": "aereo",
+      "lat": 38.573,
+      "lng": -7.9044,
+      "approx": false,
+      "img": "colegio_espirito_santo.png",
+      "url": "fPPJ3_",
+      "title": {
+        "pt": "Colégio do Espírito Santo",
+        "en": "Espírito Santo College"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Évora",
+      "municipality": "Évora",
+      "district": "Évora",
+      "locationDetail": "Évora (São Mamede, Sé, São Pedro e Santo Antão)",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "34U2Ot",
+      "t": "aereo",
+      "lat": 38.5685,
+      "lng": -7.9103,
+      "approx": false,
+      "img": "ECT.png",
+      "url": "34U2Ot",
+      "title": {
+        "pt": "Escola de Ciências e Tecnologia (ECT)",
+        "en": "School of Sciences and Technology (ECT)"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Évora",
+      "municipality": "Évora",
+      "district": "Évora",
+      "locationDetail": "Évora (São Mamede, Sé, São Pedro e Santo Antão)",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "uGUIqd",
+      "t": "aereo",
+      "lat": 38.5717,
+      "lng": -7.907,
+      "approx": false,
+      "img": "se_museu.png",
+      "url": "uGUIqd",
+      "title": {
+        "pt": "Sé de Évora",
+        "en": "Évora Cathedral"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Évora",
+      "municipality": "Évora",
+      "district": "Évora",
+      "locationDetail": "Évora (São Mamede, Sé, São Pedro e Santo Antão)",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "2Trmyl",
+      "t": "aereo",
+      "lat": 38.5727,
+      "lng": -7.9073,
+      "approx": false,
+      "img": "templos_diana.png",
+      "pointCloud": {
+        "pt": "nuvem-pontos.html",
+        "en": "en/point-cloud.html"
+      },
+      "url": "2Trmyl",
+      "title": {
+        "pt": "Templo de Diana",
+        "en": "Temple of Diana"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Évora",
+      "municipality": "Évora",
+      "district": "Évora",
+      "locationDetail": "Évora (São Mamede, Sé, São Pedro e Santo Antão)",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "fxdIzp",
+      "t": "aereo",
+      "lat": 38.5678,
+      "lng": -7.9092,
+      "approx": false,
+      "img": "palacio_manuel.png",
+      "url": "fxdIzp",
+      "title": {
+        "pt": "Palácio D. Manuel",
+        "en": "D. Manuel Palace"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Évora",
+      "municipality": "Évora",
+      "district": "Évora",
+      "locationDetail": "Évora (São Mamede, Sé, São Pedro e Santo Antão)",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "c3YK0Z",
+      "t": "aereo",
+      "lat": 38.5689,
+      "lng": -7.9089,
+      "approx": false,
+      "img": "igreja_sao_francisco.png",
+      "url": "c3YK0Z",
+      "title": {
+        "pt": "Igreja de São Francisco",
+        "en": "Church of São Francisco"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Évora",
+      "municipality": "Évora",
+      "district": "Évora",
+      "locationDetail": "Évora (São Mamede, Sé, São Pedro e Santo Antão)",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "b_0FSX",
+      "t": "aereo",
+      "lat": 40.2027,
+      "lng": -8.433,
+      "approx": false,
+      "img": "mosteiro_santa_clara.png",
+      "url": "b_0FSX",
+      "title": {
+        "pt": "Mosteiro de Santa Clara-a-Velha",
+        "en": "Santa Clara-a-Velha Monastery"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Coimbra",
+      "municipality": "Coimbra",
+      "district": "Coimbra",
+      "locationDetail": "Santa Clara",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "A_VnFv",
+      "t": "terrestre",
+      "lat": 38.5435,
+      "lng": -8.1376,
+      "approx": false,
+      "img": "gruta_escoural.png",
+      "url": "A_VnFv",
+      "title": {
+        "pt": "Gruta do Escoural",
+        "en": "Escoural Cave"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Santiago do Escoural",
+      "municipality": "Montemor-o-Novo",
+      "district": "Évora",
+      "locationDetail": "",
+      "country": "Portugal",
+      "locationSource": "Município de Montemor-o-Novo — verificação institucional",
+      "locationConfirmed": true,
+      "status": "published"
+    },
+    {
+      "id": "aeKMDu",
+      "t": "terrestre",
+      "lat": 40.2027,
+      "lng": -8.433,
+      "approx": false,
+      "img": "mosteiro_santa_clara_interiores_sensores.png",
+      "url": "aeKMDu",
+      "title": {
+        "pt": "Mosteiro de Santa Clara-a-Velha – Interior e Sensores",
+        "en": "Santa Clara-a-Velha Monastery – Interior and Sensors"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Coimbra",
+      "municipality": "Coimbra",
+      "district": "Coimbra",
+      "locationDetail": "Santa Clara",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "qQopkC",
+      "t": "multi",
+      "lat": 38.4613,
+      "lng": -8.8576,
+      "approx": false,
+      "img": "ndvi_pradaria_troia.png",
+      "url": "qQopkC",
+      "title": {
+        "pt": "NDVI - Pradaria de Tróia",
+        "en": "NDVI - Tróia Seagrass Meadow"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Tróia",
+      "municipality": "Grândola",
+      "district": "Setúbal",
+      "locationDetail": "Soltroia",
+      "country": "Portugal",
+      "locationSource": "Nome do local no modelo + Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "Vlm_yE",
+      "t": "multi",
+      "lat": 38.7293,
+      "lng": -7.878,
+      "approx": true,
+      "img": "tapada_coelheiros.png",
+      "url": "Vlm_yE",
+      "title": {
+        "pt": "Tapada de Coelheiros",
+        "en": "Tapada de Coelheiros"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Arraiolos",
+      "municipality": "Arraiolos",
+      "district": "Évora",
+      "locationDetail": "São Gregório e Santa Justa",
+      "country": "Portugal",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    },
+    {
+      "id": "h_YxUz",
+      "t": "multi",
+      "lat": 37.699,
+      "lng": -7.426,
+      "approx": false,
+      "img": "au_cu_trimapancho.png",
+      "url": "h_YxUz",
+      "title": {
+        "pt": "Distribuição de As e Cu na Antiga Mina de Trimpancho",
+        "en": "As and Cu Distribution at the Former Trimpancho Mine"
+      },
+      "sensor": "",
+      "area": "",
+      "locality": "Puebla de Guzmán",
+      "municipality": "Puebla de Guzmán",
+      "district": "El Andévalo",
+      "locationDetail": "",
+      "country": "España",
+      "locationSource": "Photon / OpenStreetMap",
+      "locationConfirmed": false,
+      "status": "published"
+    }
+  ],
+  "publications": [
+    {
+      "id": "trimpancho-2026",
+      "kind": "article",
+      "status": "published",
+      "date": "2026-06-12",
+      "title": {
+        "pt": "Trimpancho: espectroscopia e fluorescência de raios X em modelos geoambientais",
+        "en": "Trimpancho: spectroscopy and X-ray fluorescence for geoenvironmental modelling"
+      },
+      "summary": {
+        "pt": "Integração de informação espectral e geoquímica na investigação de uma antiga área mineira da Faixa Piritosa Ibérica.",
+        "en": "Integrating spectral and geochemical information to investigate a former mining area in the Iberian Pyrite Belt."
+      },
+      "body": {
+        "pt": "Estudo geoambiental de Trimpancho que cruza tecnologias espectrais e fluorescência de raios X. A publicação apresenta uma abordagem de integração de dados aplicada à caracterização da contaminação em áreas mineiras.\n\nConsulta o artigo original para os métodos, resultados e autoria completos.",
+        "en": "A geoenvironmental study of Trimpancho combining spectral technologies and X-ray fluorescence. The paper presents a data-integration approach to the characterisation of contamination in mining areas.\n\nSee the original paper for the complete methods, results and authorship."
+      },
+      "url": "https://doi.org/10.3390/su18126038",
+      "doi": "10.3390/su18126038",
+      "authors": "",
+      "journal": "Sustainability, 18(12), 6038 (2026)",
+      "image": "modelos/images/au_cu_trimapancho.png"
+    },
+    {
+      "id": "casas-novas-ouro-2026",
+      "kind": "article",
+      "status": "published",
+      "date": "2026-07-06",
+      "title": {
+        "pt": "Ouro orogénico em Casas Novas: mineralização, texturas e metamorfismo",
+        "en": "Orogenic gold at Casas Novas: mineralisation, textures and metamorphism"
+      },
+      "summary": {
+        "pt": "Análise textural da mineralização aurífera de Casas Novas, na Zona de Ossa-Morena, e da sua relação com a evolução metamórfica regional.",
+        "en": "Textural analysis of the Casas Novas gold mineralisation in the Ossa-Morena Zone and its relationship with regional metamorphic evolution."
+      },
+      "body": {
+        "pt": "Investigação mineralógica e textural sobre o depósito aurífero de Casas Novas, no distrito aurífero do Escoural. O trabalho relaciona a mineralização com a evolução metamórfica regional.\n\nConsulta a publicação original para os dados, métodos e interpretações completos.",
+        "en": "Mineralogical and textural research on the Casas Novas gold deposit in the Escoural Gold District. The study relates mineralisation to regional metamorphic evolution.\n\nSee the original publication for the complete data, methods and interpretations."
+      },
+      "url": "https://doi.org/10.3390/min16070709",
+      "doi": "10.3390/min16070709",
+      "authors": "Diogo São Pedro, José Roseiro, Jorge Pedro, José Mirão, Mercedes Fuertes-Fuente e Pedro Nogueira",
+      "journal": "Minerals, 16(7), 709 (2026)",
+      "image": ""
+    },
+    {
+      "id": "gruta-escoural-gemeo-digital-2026",
+      "kind": "news",
+      "status": "published",
+      "date": "2026-11-04",
+      "title": {
+        "pt": "Gruta do Escoural ganha gémeo digital para reforçar a preservação e valorização do património",
+        "en": "Escoural Cave gains a digital twin to support heritage conservation and public access"
+      },
+      "summary": {
+        "pt": "A Universidade de Évora participa na representação digital da gruta, combinando levantamento 3D, monitorização ambiental e visita virtual.",
+        "en": "The University of Évora is helping create a digital representation of the cave through 3D surveying, environmental monitoring and a virtual visit."
+      },
+      "body": {
+        "pt": "O GEO-DS e o Instituto de Ciências da Terra integram a equipa da Universidade de Évora neste projeto financiado pelo PRR.\n\nA integração de dados espaciais e ambientais apoia a conservação do monumento e permite explorar virtualmente zonas de acesso condicionado.",
+        "en": "GEO-DS and the Institute of Earth Sciences are part of the University of Évora team in this PRR-funded project.\n\nCombining spatial and environmental data supports conservation and enables virtual exploration of areas with restricted physical access."
+      },
+      "url": "https://www.uevora.pt/ue-media/noticias?item=47809",
+      "doi": "",
+      "authors": "Universidade de Évora",
+      "journal": "",
+      "image": "media/gruta-escoural-gemeo-digital-2026.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "geods-00fd34ec06c653e8",
+      "title": {
+        "pt": "Documentar a pintura",
+        "en": "Recording paintings"
+      },
+      "image": "media/gallery/geods-01.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-01.jpg",
+      "width": 896,
+      "height": 2000,
+      "caption": {
+        "pt": "Registo de uma pintura de grandes dimensões num espaço interior.",
+        "en": "Recording a large painting in an interior space."
+      },
+      "alt": {
+        "pt": "Registo de uma pintura de grandes dimensões num espaço interior.",
+        "en": "Recording a large painting in an interior space."
+      },
+      "category": "fieldwork",
+      "date": "",
+      "order": 1,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-f0052132b1cdca6a",
+      "title": {
+        "pt": "Observar a partir do ar",
+        "en": "Observing from above"
+      },
+      "image": "media/gallery/geods-02.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-02.jpg",
+      "width": 1080,
+      "height": 1350,
+      "caption": {
+        "pt": "Operador acompanha um drone durante uma aquisição no exterior.",
+        "en": "An operator monitors a drone during outdoor data acquisition."
+      },
+      "alt": {
+        "pt": "Operador acompanha um drone durante uma aquisição no exterior.",
+        "en": "An operator monitors a drone during outdoor data acquisition."
+      },
+      "category": "fieldwork",
+      "date": "",
+      "order": 2,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-93360e837563228a",
+      "title": {
+        "pt": "Arqueologia em três dimensões",
+        "en": "Archaeology in three dimensions"
+      },
+      "image": "media/gallery/geods-03.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-03.jpg",
+      "width": 2000,
+      "height": 896,
+      "caption": {
+        "pt": "Levantamento de ruínas arqueológicas com um equipamento sobre tripé.",
+        "en": "Surveying archaeological remains with equipment mounted on a tripod."
+      },
+      "alt": {
+        "pt": "Levantamento de ruínas arqueológicas com um equipamento sobre tripé.",
+        "en": "Surveying archaeological remains with equipment mounted on a tripod."
+      },
+      "category": "fieldwork",
+      "date": "",
+      "order": 3,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-6b07cc1fc2f83e08",
+      "title": {
+        "pt": "O detalhe do património",
+        "en": "Heritage in detail"
+      },
+      "image": "media/gallery/geods-04.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-04.jpg",
+      "width": 716,
+      "height": 1600,
+      "caption": {
+        "pt": "Equipamento de registo num corredor com abóbadas e decoração escultórica.",
+        "en": "Recording equipment in a corridor with vaulting and sculptural decoration."
+      },
+      "alt": {
+        "pt": "Equipamento de registo num corredor com abóbadas e decoração escultórica.",
+        "en": "Recording equipment in a corridor with vaulting and sculptural decoration."
+      },
+      "category": "fieldwork",
+      "date": "",
+      "order": 4,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-ff79d48a2c97e5fc",
+      "title": {
+        "pt": "Métodos em demonstração",
+        "en": "Demonstrating methods"
+      },
+      "image": "media/gallery/geods-05.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-05.jpg",
+      "width": 900,
+      "height": 1600,
+      "caption": {
+        "pt": "Grupo acompanha uma demonstração de técnicas de levantamento no exterior.",
+        "en": "A group attends an outdoor demonstration of surveying techniques."
+      },
+      "alt": {
+        "pt": "Grupo acompanha uma demonstração de técnicas de levantamento no exterior.",
+        "en": "A group attends an outdoor demonstration of surveying techniques."
+      },
+      "category": "events",
+      "date": "",
+      "order": 5,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-9c20a93fa677f283",
+      "title": {
+        "pt": "Percorrer e registar",
+        "en": "Exploring and recording"
+      },
+      "image": "media/gallery/geods-06.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-06.jpg",
+      "width": 1600,
+      "height": 716,
+      "caption": {
+        "pt": "Operador realiza um levantamento num corredor de um claustro.",
+        "en": "An operator surveys a cloister corridor."
+      },
+      "alt": {
+        "pt": "Operador realiza um levantamento num corredor de um claustro.",
+        "en": "An operator surveys a cloister corridor."
+      },
+      "category": "fieldwork",
+      "date": "",
+      "order": 6,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-a2c178c26b53d756",
+      "title": {
+        "pt": "Partilhar conhecimento",
+        "en": "Sharing knowledge"
+      },
+      "image": "media/gallery/geods-07.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-07.jpg",
+      "width": 2000,
+      "height": 896,
+      "caption": {
+        "pt": "Apresentação de métodos e resultados com gráficos numa sala de trabalho.",
+        "en": "Presentation of methods and results with charts in a working session."
+      },
+      "alt": {
+        "pt": "Apresentação de métodos e resultados com gráficos numa sala de trabalho.",
+        "en": "Presentation of methods and results with charts in a working session."
+      },
+      "category": "events",
+      "date": "",
+      "order": 7,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-38cf7424bdfebb68",
+      "title": {
+        "pt": "Explorar modelos 3D",
+        "en": "Exploring 3D models"
+      },
+      "image": "media/gallery/geods-08.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-08.jpg",
+      "width": 1080,
+      "height": 720,
+      "caption": {
+        "pt": "Visitantes exploram um modelo digital num computador durante uma atividade de divulgação.",
+        "en": "Visitors explore a digital model on a computer during an outreach activity."
+      },
+      "alt": {
+        "pt": "Visitantes exploram um modelo digital num computador durante uma atividade de divulgação.",
+        "en": "Visitors explore a digital model on a computer during an outreach activity."
+      },
+      "category": "events",
+      "date": "",
+      "order": 8,
+      "credit": "Município de Estremoz / Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-0b1bde084836899e",
+      "title": {
+        "pt": "Património no terreno",
+        "en": "Heritage in the field"
+      },
+      "image": "media/gallery/geods-09.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-09.jpg",
+      "width": 1152,
+      "height": 2048,
+      "caption": {
+        "pt": "Observação de um edifício patrimonial com uma fachada ornamentada.",
+        "en": "Observing a heritage building with an ornate façade."
+      },
+      "alt": {
+        "pt": "Observação de um edifício patrimonial com uma fachada ornamentada.",
+        "en": "Observing a heritage building with an ornate façade."
+      },
+      "category": "fieldwork",
+      "date": "",
+      "order": 9,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-bd1dfc75153d7cde",
+      "title": {
+        "pt": "Ciência em contacto",
+        "en": "Science in conversation"
+      },
+      "image": "media/gallery/geods-10.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-10.jpg",
+      "width": 716,
+      "height": 1600,
+      "caption": {
+        "pt": "Equipa apresenta dados num computador numa atividade de divulgação ao público.",
+        "en": "A team presents data on a computer during a public outreach activity."
+      },
+      "alt": {
+        "pt": "Equipa apresenta dados num computador numa atividade de divulgação ao público.",
+        "en": "A team presents data on a computer during a public outreach activity."
+      },
+      "category": "events",
+      "date": "",
+      "order": 10,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-b230eaba8567aef8",
+      "title": {
+        "pt": "Revelar o subterrâneo",
+        "en": "Revealing the underground"
+      },
+      "image": "media/gallery/geods-11.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-11.jpg",
+      "width": 2000,
+      "height": 896,
+      "caption": {
+        "pt": "Equipamento de registo tridimensional instalado num túnel.",
+        "en": "Three-dimensional recording equipment set up in a tunnel."
+      },
+      "alt": {
+        "pt": "Equipamento de registo tridimensional instalado num túnel.",
+        "en": "Three-dimensional recording equipment set up in a tunnel."
+      },
+      "category": "fieldwork",
+      "date": "",
+      "order": 11,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-d5b85cea4bf161d4",
+      "title": {
+        "pt": "Superfícies e pinturas",
+        "en": "Surfaces and paintings"
+      },
+      "image": "media/gallery/geods-12.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-12.jpg",
+      "width": 2000,
+      "height": 896,
+      "caption": {
+        "pt": "Levantamento de uma sala com pinturas murais e equipamentos de registo.",
+        "en": "Surveying a room with wall paintings and recording equipment."
+      },
+      "alt": {
+        "pt": "Levantamento de uma sala com pinturas murais e equipamentos de registo.",
+        "en": "Surveying a room with wall paintings and recording equipment."
+      },
+      "category": "fieldwork",
+      "date": "",
+      "order": 12,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-f4a3bc1f34d759ef",
+      "title": {
+        "pt": "Aprender com a aquisição",
+        "en": "Learning through acquisition"
+      },
+      "image": "media/gallery/geods-13.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-13.jpg",
+      "width": 900,
+      "height": 1600,
+      "caption": {
+        "pt": "Demonstração de um equipamento de levantamento a um grupo no exterior.",
+        "en": "An outdoor demonstration of surveying equipment to a group."
+      },
+      "alt": {
+        "pt": "Demonstração de um equipamento de levantamento a um grupo no exterior.",
+        "en": "An outdoor demonstration of surveying equipment to a group."
+      },
+      "category": "events",
+      "date": "",
+      "order": 13,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-2d710764437e1177",
+      "title": {
+        "pt": "Ler a paisagem",
+        "en": "Reading the landscape"
+      },
+      "image": "media/gallery/geods-14.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-14.jpg",
+      "width": 1600,
+      "height": 716,
+      "caption": {
+        "pt": "Trabalho de campo junto de uma massa de água, com observação do terreno.",
+        "en": "Fieldwork beside a body of water, observing the surrounding terrain."
+      },
+      "alt": {
+        "pt": "Trabalho de campo junto de uma massa de água, com observação do terreno.",
+        "en": "Fieldwork beside a body of water, observing the surrounding terrain."
+      },
+      "category": "fieldwork",
+      "date": "",
+      "order": 14,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-baba7f2ac2bba5de",
+      "title": {
+        "pt": "Acompanhar o levantamento",
+        "en": "Monitoring the survey"
+      },
+      "image": "media/gallery/geods-15.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-15.jpg",
+      "width": 896,
+      "height": 2000,
+      "caption": {
+        "pt": "Tablet e equipamento de levantamento num espaço com abóbadas.",
+        "en": "A tablet and surveying equipment in a vaulted interior."
+      },
+      "alt": {
+        "pt": "Tablet e equipamento de levantamento num espaço com abóbadas.",
+        "en": "A tablet and surveying equipment in a vaulted interior."
+      },
+      "category": "fieldwork",
+      "date": "",
+      "order": 15,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-11f6f998d62b6d90",
+      "title": {
+        "pt": "Dos espaços aos dados",
+        "en": "From spaces to data"
+      },
+      "image": "media/gallery/geods-16.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-16.jpg",
+      "width": 896,
+      "height": 2000,
+      "caption": {
+        "pt": "Tablet mostra os dados adquiridos num corredor patrimonial.",
+        "en": "A tablet displays data acquired in a heritage corridor."
+      },
+      "alt": {
+        "pt": "Tablet mostra os dados adquiridos num corredor patrimonial.",
+        "en": "A tablet displays data acquired in a heritage corridor."
+      },
+      "category": "fieldwork",
+      "date": "",
+      "order": 16,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-e818449b30ea66f2",
+      "title": {
+        "pt": "Geometria dos interiores",
+        "en": "Interior geometry"
+      },
+      "image": "media/gallery/geods-17.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-17.jpg",
+      "width": 896,
+      "height": 2000,
+      "caption": {
+        "pt": "Equipamento sobre tripé documenta a geometria de um teto ornamentado.",
+        "en": "Tripod-mounted equipment records the geometry of an ornate ceiling."
+      },
+      "alt": {
+        "pt": "Equipamento sobre tripé documenta a geometria de um teto ornamentado.",
+        "en": "Tripod-mounted equipment records the geometry of an ornate ceiling."
+      },
+      "category": "fieldwork",
+      "date": "",
+      "order": 17,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-aa5ad8ceeac04a3c",
+      "title": {
+        "pt": "Estruturas e superfícies",
+        "en": "Structures and surfaces"
+      },
+      "image": "media/gallery/geods-18.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-18.jpg",
+      "width": 896,
+      "height": 2000,
+      "caption": {
+        "pt": "Outra perspetiva do registo tridimensional de um interior ornamentado.",
+        "en": "Another view of three-dimensional recording in an ornate interior."
+      },
+      "alt": {
+        "pt": "Outra perspetiva do registo tridimensional de um interior ornamentado.",
+        "en": "Another view of three-dimensional recording in an ornate interior."
+      },
+      "category": "fieldwork",
+      "date": "",
+      "order": 18,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-90681a52527afa19",
+      "title": {
+        "pt": "Verificar no local",
+        "en": "Checking on site"
+      },
+      "image": "media/gallery/geods-19.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-19.jpg",
+      "width": 896,
+      "height": 2000,
+      "caption": {
+        "pt": "Verificação dos dados num tablet durante o levantamento de um espaço interior.",
+        "en": "Checking data on a tablet while surveying an interior space."
+      },
+      "alt": {
+        "pt": "Verificação dos dados num tablet durante o levantamento de um espaço interior.",
+        "en": "Checking data on a tablet while surveying an interior space."
+      },
+      "category": "fieldwork",
+      "date": "",
+      "order": 19,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    },
+    {
+      "id": "geods-fb7cf6b7c3cdc10d",
+      "title": {
+        "pt": "Do registo ao modelo",
+        "en": "From recording to model"
+      },
+      "image": "media/gallery/geods-20.jpg",
+      "thumbnail": "media/gallery/thumbs/geods-20.jpg",
+      "width": 896,
+      "height": 2000,
+      "caption": {
+        "pt": "Visualização de um modelo tridimensional no ecrã de um computador.",
+        "en": "A three-dimensional model displayed on a computer screen."
+      },
+      "alt": {
+        "pt": "Visualização de um modelo tridimensional no ecrã de um computador.",
+        "en": "A three-dimensional model displayed on a computer screen."
+      },
+      "category": "models",
+      "date": "",
+      "order": 20,
+      "credit": "Arquivo GEO-DS",
+      "sourceURL": "",
+      "status": "published"
+    }
+  ]
+}
