@@ -1,6 +1,6 @@
 # GEO-DS | site completo para GitHub e Universidade de Évora
 
-Site estático em português e inglês. A página inicial é uma entrada para páginas próprias do laboratório, investigação, tecnologias, projetos, publicações, pessoas, galeria, colaborações e prestação de serviços. A entrada inclui uma viagem interativa pela nuvem de pontos real do Templo de Diana e mantém o atlas de 42 modelos.
+Site estático em português e inglês. A página inicial é uma entrada para páginas próprias do laboratório, investigação, tecnologias, projetos, publicações, pessoas, galeria, colaborações e contactos. A prestação de serviços está integrada em Colaborações. A entrada inclui uma viagem interativa pela nuvem de pontos real do Templo de Diana e mantém o atlas de 42 modelos.
 
 ## Instalar no GitHub
 
@@ -16,23 +16,23 @@ No GitHub abre **Settings → Pages → Deploy from a branch**, escolhe o ramo `
 
 ## Páginas PT e EN
 
-| Conteúdo                 | Português               | Inglês                     |
-| ------------------------ | ----------------------- | -------------------------- |
-| Entrada                  | `index.html`            | `en/index.html`            |
-| Laboratório              | `laboratorio.html`      | `en/laboratory.html`       |
-| Investigação             | `investigacao.html`     | `en/research.html`         |
-| Tecnologias              | `tecnologias.html`      | `en/technologies.html`     |
-| Projetos                 | `projetos.html`         | `en/projects.html`         |
-| Publicações              | `publicacoes.html`      | `en/publications.html`     |
-| Pessoas                  | `pessoas.html`          | `en/people.html`           |
-| Galeria                  | `galeria.html`          | `en/gallery.html`          |
-| Colaborações             | `colaboracoes.html`     | `en/collaborations.html`   |
-| Prestação de serviços    | `servicos.html`         | `en/services.html`         |
-| Contactos                | `contactos.html`        | `en/contact.html`          |
-| Artigo ou notícia        | `publicacao.html?id=…`  | `en/publication.html?id=…` |
-| Nuvem do Templo de Diana | `nuvem-pontos.html`     | `en/point-cloud.html`      |
-| Atlas                    | `modelos/pt/index.html` | `modelos/en/index.html`    |
-| Mapa                     | `modelos/pt/mapa.html`  | `modelos/en/map.html`      |
+| Conteúdo                 | Português                              | Inglês                                         |
+| ------------------------ | -------------------------------------- | ---------------------------------------------- |
+| Entrada                  | `index.html`                           | `en/index.html`                                |
+| Laboratório              | `laboratorio.html`                     | `en/laboratory.html`                           |
+| Investigação             | `investigacao.html`                    | `en/research.html`                             |
+| Tecnologias              | `tecnologias.html`                     | `en/technologies.html`                         |
+| Projetos                 | `projetos.html`                        | `en/projects.html`                             |
+| Publicações              | `publicacoes.html`                     | `en/publications.html`                         |
+| Pessoas                  | `pessoas.html`                         | `en/people.html`                               |
+| Galeria                  | `galeria.html`                         | `en/gallery.html`                              |
+| Colaborações             | `colaboracoes.html`                    | `en/collaborations.html`                       |
+| Prestação de serviços    | `colaboracoes.html#prestacao-servicos` | `en/collaborations.html#commissioned-services` |
+| Contactos                | `contactos.html`                       | `en/contact.html`                              |
+| Artigo ou notícia        | `publicacao.html?id=…`                 | `en/publication.html?id=…`                     |
+| Nuvem do Templo de Diana | `nuvem-pontos.html`                    | `en/point-cloud.html`                          |
+| Atlas                    | `modelos/pt/index.html`                | `modelos/en/index.html`                        |
+| Mapa                     | `modelos/pt/mapa.html`                 | `modelos/en/map.html`                          |
 
 Os antigos favoritos da forma `index.html#laboratorio` encaminham para a nova página correspondente. A mudança de idioma conserva a página consultada.
 
@@ -42,7 +42,7 @@ A equipa identifica Pedro Nogueira como presidente do laboratório e professor a
 
 Os projetos liderados pelo GEO-DS estão separados dos projetos com participação da equipa. Na liderança constam OMG, GEOHYPER e Winers_AI; na participação, MinaTech, CLIMACT-CH e GeoMinA. Os nomes e a classificação dos projetos seguem a informação fornecida pelo responsável do site. Objetivos, datas e financiamento de OMG e Winers_AI podem ser acrescentados quando forem disponibilizados.
 
-A página de colaborações contém os dez logótipos solicitados, obtidos de fontes das entidades e da CVRA. Os ficheiros originais e respetivas fontes estão identificados em `media/logos/SOURCES.md`. A Câmara Municipal de Évora figura como parceira e entidade de prestação de serviços. A Assembleia da República e a Câmara Municipal de Évora aparecem logo no início da página de serviços. A Fundação Eugénio de Almeida está na área vitivinícola, identificada pela Adega Cartuxa.
+A página de colaborações contém os dez logótipos solicitados, obtidos de fontes das entidades e da CVRA. Os ficheiros originais e respetivas fontes estão identificados em `media/logos/SOURCES.md`. A Assembleia da República e a Câmara Municipal de Évora aparecem lado a lado na secção «Prestação de serviços» de Colaborações, identificadas como entidades para as quais o GEO-DS realizou trabalhos técnicos e científicos. A Câmara mantém a referência à colaboração institucional. Não existe uma página autónoma de serviços no menu ou na entrada; os endereços antigos `servicos.html` e `en/services.html` encaminham para a nova secção e devem ser substituídos pelos redirecionamentos incluídos neste pacote. A Fundação Eugénio de Almeida está na área vitivinícola, identificada pela Adega Cartuxa.
 
 As notícias e os artigos mantêm a lista compacta, com filtros por tipo e páginas de leitura. O contacto geral continua a ser `geods@uevora.pt`.
 
